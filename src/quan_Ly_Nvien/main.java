@@ -8,7 +8,7 @@ public class main {
         nhanVien[] nhanVien = new nhanVien[3];
         nhanVien[0] = new nhanVien("Tiêu Phong", 1990019, "Ha Noi");
         nhanVien[1] = new nhanVien("Hư Trúc", 1990009, "Ha Noi");
-        nhanVien[2] = new nhanVien("Đoàn Dự", 07007700, "Hà Nội");
+        nhanVien[2] = new nhanVien("Đoàn Dự", 7007700, "Hà Nội");
 
         while (true) {
             System.out.println("1. Thêm nhân viên");
